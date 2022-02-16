@@ -19,3 +19,6 @@ In the following report we **will dive into the following topics**:
 ## 2 Business Case Studies  
 Where to look for potential customers? (customer acquisition)  
 How to reward the top performing customers? (customer retention)  
+
+## 3. Cluster Example
+![Cluster Example](https://github.com/Petros-Polychronis/Business-Analytics/blob/main/K-means%20clustering/Cluster_example.png?raw=true)
