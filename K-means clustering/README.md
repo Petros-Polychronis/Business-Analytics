@@ -1,4 +1,4 @@
-# Business-Analytics: Customer Segmentation using K-means
+# Business Analytics: Customer Segmentation using K-means
 
 
 ## Introduction
