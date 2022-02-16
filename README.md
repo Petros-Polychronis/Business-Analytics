@@ -1,8 +1,8 @@
 # Business-Analytics
 Machine Learning and Optimisation Projects for Business
 
-- 1st Project: Customer Segmentation with K-means clustering. Contains 3 files.  
-  Dataset(csv)  
-  Jupyter Notebook( python code)  
-  Business Report (html)  
+## 1st Project: Customer Segmentation using K-means Clustering (3 files)
+1. Dataset(csv)  
+2. Jupyter Notebook( python code)  
+3. Business Report (html)  
 
