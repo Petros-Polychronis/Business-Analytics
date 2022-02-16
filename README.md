@@ -1,4 +1,4 @@
-# Business-Analytics
+# Business Analytics
 Machine Learning and Optimisation Projects for Business
 
 ## 1st Project: Customer Segmentation using K-means Clustering (3 files)
