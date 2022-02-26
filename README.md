@@ -7,7 +7,7 @@ Machine Learning and Optimisation Projects for Business
 3. Business Report (html)  
 
 
-## 2nd Project: Decision Trees and Random Forests for predicting Default Loans (# files)
+## 2nd Project: Decision Trees and Random Forests for predicting default Loans (3 files)
 1. Dataset(csv)  
 2. Jupyter Notebook(Python)  
 3. Business Report (html)
