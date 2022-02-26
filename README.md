@@ -6,3 +6,8 @@ Machine Learning and Optimisation Projects for Business
 2. Jupyter Notebook(Python)  
 3. Business Report (html)  
 
+
+## 2nd Project: Decision Trees and Random Forests for predicting Default Loans (# files)
+1. Dataset(csv)  
+2. Jupyter Notebook(Python)  
+3. Business Report (html)
