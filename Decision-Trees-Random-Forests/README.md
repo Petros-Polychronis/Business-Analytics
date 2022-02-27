@@ -15,7 +15,8 @@ Given this dataset we will play with decision tree and random forests classifier
   - KFold cross-validation    
   - Tree Visualisation    
 ### 5) Random Forests classifier  
-  - Tuning n_estimators  
+  - Tuning n_estimators 
+  - Full Grid Search tuning (`n_estimators`, `max_features`, `max_depth`)
   - OOB(Out of Bag) error vs. Training-Test set error  
   - Feature Importance  
   - Partial Dependence plots  
