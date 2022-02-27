@@ -16,7 +16,7 @@ Given this dataset we will play with decision tree and random forests classifier
   - Tree Visualisation    
 ### 5) Random Forests classifier  
   - Tuning n_estimators 
-  - Full Grid Search tuning (`n_estimators`, `max_features`, `max_depth`)
+  - Grid Search tuning using Cross-Validation (`n_estimators`, `max_features`, `max_depth`)
   - OOB(Out of Bag) error vs. Training-Test set error  
   - Feature Importance  
   - Partial Dependence plots  
