@@ -18,5 +18,5 @@ Given this dataset we will play with decision tree and random forests classifier
   - Tuning n_estimators 
   - Grid Search tuning using Cross-Validation (`n_estimators`, `max_features`, `max_depth`)
   - OOB(Out of Bag) error vs. Training-Test set error  
-  - Feature Importance  
+  - Feature Importance vs. Permutation Feature Importance
   - Partial Dependence plots  
