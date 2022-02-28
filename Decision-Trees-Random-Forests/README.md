@@ -1,5 +1,5 @@
 # Objective
-Given this dataset we will play with decision tree and random forests classifiers to try to predict whether a student loan will default in the future.
+Decision trees and Random Forest classifiers try to predict whether a student loan will default in the future.
 
 # Table of Contents
 ### 1) Exploratory Data Analysis 
@@ -10,8 +10,8 @@ Given this dataset we will play with decision tree and random forests classifier
   - train_test_split function  
 ### 4) Decision Tree classifier   
   - Growing a complete tree    
-  - Tuning the tree with max_depth parameter & training-validation set approach    
-  - Tuning the tree using cost-complexity pruning & training-validation set approach      
+  - Tuning the tree with `max_depth parameter` **&** `training-validation set` approach    
+  - Tuning the tree using `cost-complexity pruning` **&** `training-validation set` approach      
   - KFold cross-validation    
   - Tree Visualisation    
 ### 5) Random Forests classifier  
