@@ -11,3 +11,9 @@ Machine Learning and Optimisation Projects for Business
 1. Dataset(csv)  
 2. Jupyter Notebook(Python)  
 3. Business Report (html)
+
+
+## 3rd Project: K-Nearest-Neighbours predicts wine qualities (3 files)
+1. Dataset(csv)  
+2. Jupyter Notebook(Python)  
+3. Business Report (html)
