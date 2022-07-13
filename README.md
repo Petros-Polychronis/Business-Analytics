@@ -1,5 +1,5 @@
-# Business Analytics
-Machine Learning and Optimisation Projects for Business
+# Business Analytics (under construction throughout summer 2022)
+Machine Learning and Optimisation Projects for Business inspired by coursework and interesting ideas while at Imperial College Business School.
 
 ## 1st Project: Customer Segmentation using K-means Clustering (3 files)
 1. Dataset(csv)  
