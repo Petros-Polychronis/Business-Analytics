@@ -13,7 +13,7 @@ Ths project is demonstrating the use of Pyspark, a tool used to accelarate the c
 6. Airline with highest average delay of each type in March 2007.
 7. The median, mean, and mode of columns 12-16, 19-21 and 25-29 for the flights in the third week of 2007
 
-## More Complex queries:
+## More Complex queries
 
 8. **Flight options between Philadelphia and Los Angeles**  
   *A passenger wants to travel from Philadelphia International Airport (airport code:
