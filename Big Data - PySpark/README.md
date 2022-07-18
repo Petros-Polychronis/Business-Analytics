@@ -20,7 +20,7 @@
   carrier has the highest number of flights with these constraints. Limit your analysis to February
   2007 and use scheduled times.*
 
-9.**Departure Flight board**  
+9. **Departure Flight board**  
   *Details:board of the Los Angeles Airport at 12 Jan 2007 at 13:00. The
   board should contain flights with actual departure times between 12:00 and 14:00, sorted by
   scheduled departure time. The resulting table should at least contain scheduled departure time,
