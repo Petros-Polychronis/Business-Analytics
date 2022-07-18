@@ -2,10 +2,10 @@
 The project demonstrates the use of MongoDB's NoSQL paradigm using pymongo. Two datasets, *zipcodes* and *prescriptions*. are used to perform queries on them, and both are explored and explained in detail within the project files. Both datasets are in JSON-lines format, a special case of JSON format where each line contains a
 separate JSON object. The JSON-lines format makes it possible to load JSON records in Spark.
 
+## Zipcodes dataset
+The dataset can be found [here](http://www.doc.ic.ac.uk/~theinis/zips.json)
 
-
-
-## Queries for **Zipcodes** dataset
+### Queries for **Zipcodes** dataset
 1. Count the total number of cities in Washington state.
 2. Find the total population of each state (i.e., sort states by their population in the ascending
 order).
@@ -14,8 +14,10 @@ order).
 each of the four regions (West, South, Midwest, and Northeast).
 5. Find the 3 most populated cities for each state (in one query).
 
+## Prescriptions dataset
+The dataset can be found [here]([http://www.doc.ic.ac.uk/~theinis/zips.json](http://www.doc.ic.ac.uk/~theinis/prescriptions.jsonl.zip)
 
-## Queries for **Prescription-based prediction** dataset  
+### Queries for **Prescription-based prediction** dataset  
 6. Find the specialty of all doctors who have prescribed "HALOPERIDOL".
 7. Find the total number of doctors, separately for each region (in one query).
 8. Find the total amount of prescribed "ATORVASTATIN CALCIUM"
