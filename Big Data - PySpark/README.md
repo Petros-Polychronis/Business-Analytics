@@ -13,15 +13,15 @@
 ## More Complex queries:
 
 8. **Flight options between Philadelphia and Los Angeles**  
-  A passenger wants to travel from Philadelphia International Airport (airport code:
+  *A passenger wants to travel from Philadelphia International Airport (airport code:
   PHL) to Los Angeles International Airport (airport code: LAX), and then go back to Philadelphia
   (PHL). He departs PHL not earlier than 5:59 am (scheduled time), stays at least 3:01 hours in Los
   Angeles and then arrive at PHL not later than 11pm. Based on the "scheduled" times, find which
   carrier has the highest number of flights with these constraints. Limit your analysis to February
-  2007 and use scheduled times.
+  2007 and use scheduled times.*
 
-9.**Departure Flight board**
-  Details:board of the Los Angeles Airport at 12 Jan 2007 at 13:00. The
-board should contain flights with actual departure times between 12:00 and 14:00, sorted by
-scheduled departure time. The resulting table should at least contain scheduled departure time,
-actual departure time (if departed), airline code, and destination.
+9.**Departure Flight board**  
+  *Details:board of the Los Angeles Airport at 12 Jan 2007 at 13:00. The
+  board should contain flights with actual departure times between 12:00 and 14:00, sorted by
+  scheduled departure time. The resulting table should at least contain scheduled departure time,
+  actual departure time (if departed), airline code, and destination.*
