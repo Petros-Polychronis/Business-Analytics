@@ -1,5 +1,5 @@
 ## Overview
-The project demonstrates the use of MongoDB's NoSQL paradigm using pymongo. Two datasets, *zipcodes* and *prescriptions*. are used to perform queries on them,and both are explained within the project files. Both datasets are in JSON-lines format, a special case of JSON format where each line contains a
+The project demonstrates the use of MongoDB's NoSQL paradigm using pymongo. Two datasets, *zipcodes* and *prescriptions*. are used to perform queries on them, and both are explored and explained in detail within the project files. Both datasets are in JSON-lines format, a special case of JSON format where each line contains a
 separate JSON object. The JSON-lines format makes it possible to load JSON records in Spark.
 
 
