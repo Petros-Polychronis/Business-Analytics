@@ -1,6 +1,9 @@
+## Overview
+
+Ths project is demonstrating the use of Pyspark, a tool used to accelarate the computation of analytics for big data. For large datasets, traditional iterative computations and queries are not able to catch up with the need for fast analytics. To that end, tools and frameworks such as MapReduce (developed by Google) have laid the foundations for speeding up computations by parallelizing computations which are independent of each other. In this project, I will be using the "Airline On-Time Statistics and Delay Causes", collected by U.S. Department of Transportation, to perform some descriptive analytics (questions which answer to "what has happened") for the flights in 2007. I am relying on the Apache Spark framework which loads data into the main memory and achieves high performance!
 
 
-
+## Descriptive Analytics  
 
 1. Total number of records.
 2. Total number of operated flights per month, sorted by the month.
@@ -21,7 +24,7 @@
   2007 and use scheduled times.*
 
 9. **Departure Flight board**  
-  *Details:board of the Los Angeles Airport at 12 Jan 2007 at 13:00. The
-  board should contain flights with actual departure times between 12:00 and 14:00, sorted by
-  scheduled departure time. The resulting table should at least contain scheduled departure time,
+  *We will reconstruct the departure flight board of the Los Angeles Airport at 12 Jan 2007 at 13:00. The
+  board is to contain flights with actual departure times between 12:00 and 14:00, sorted by
+  scheduled departure time. The resulting table will contain scheduled departure time,
   actual departure time (if departed), airline code, and destination.*
