@@ -15,7 +15,7 @@ each of the four regions (West, South, Midwest, and Northeast).
 5. Find the 3 most populated cities for each state (in one query).
 
 ## Prescriptions dataset
-The dataset can be found [here]([http://www.doc.ic.ac.uk/~theinis/zips.json](http://www.doc.ic.ac.uk/~theinis/prescriptions.jsonl.zip)
+The dataset can be found [here](http://www.doc.ic.ac.uk/~theinis/prescriptions.jsonl.zip)
 
 ### Queries for **Prescription-based prediction** dataset  
 6. Find the specialty of all doctors who have prescribed "HALOPERIDOL".
