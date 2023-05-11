@@ -1,1 +1,2 @@
-Group Project at Imperial College Business School
+Kaggle competition
+Code can be provided upon request.
